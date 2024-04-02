@@ -1,6 +1,7 @@
 # Nishat Samanta Progga - Portfolio
 
 This is a portfolio website for Nishat Samanta Progga, showcasing their work as a software developer. The website includes sections for About Me, Projects, and Contact Information.
+[Click here](https://samanthaprogga.github.io/my-portfolio/)
 
 ## Table of Contents
 
