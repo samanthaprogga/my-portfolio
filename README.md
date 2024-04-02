@@ -41,11 +41,12 @@ The website provides information about Nishat Samanta Progga, including their ba
    - **Technologies Used:** HTML, CSS, JavaScript, Git
    - [View Project](https://samanthaprogga.github.io/shape-factory/)
 
-4. **Temperature Converter**
+4. **Alarm Clock**
 
-   - **Description:** A handy tool for converting temperatures between Celsius and Fahrenheit.
+   - **Description:** This is a simple alarm clock web application built using HTML, CSS, and JavaScript. The application allows users to set an alarm for a specific time and plays an alarm sound when the set time is reached.
+
    - **Technologies Used:** HTML, CSS, JavaScript
-   - [View Project](https://samanthaprogga.io/temp-converter/)
+   - [View Project](https://samanthaprogga.github.io/Alarm-Clock/)
 
 ## Technologies Used
 
